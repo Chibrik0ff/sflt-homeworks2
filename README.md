@@ -9,9 +9,9 @@
 
 ### *Ответ*
 
-![screen](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/image1.png)
+![screen](https://github.com/Chibrik0ff/sflt-homeworks2/blob/main/img/image1.png)
 
-[Haproxy_1](https://github.com/Chibrik0ff/8-03-hw/blob/main/haproxy.cfg)
+[Haproxy_1](https://github.com/Chibrik0ff/sflt-homeworks2/blob/main/haproxy.cfg)
 
  ---
 
@@ -24,8 +24,8 @@
 
 ### *Ответ*
 
-![screen](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/image2.png)
+![screen](https://github.com/Chibrik0ff/sflt-homeworks2/blob/main/img/image2.png)
 
-[Haproxy_2](https://github.com/Chibrik0ff/8-03-hw/blob/main/haproxy2.cfg)
+[Haproxy_2](https://github.com/Chibrik0ff/sflt-homeworks2/blob/main/haproxy2.cfg)
 
  ---
