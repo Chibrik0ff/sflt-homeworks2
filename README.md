@@ -9,7 +9,7 @@
 
 ### *Ответ*
 
-![Скриншот](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/1.jpg)
+![Скриншот](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/9f7a06c1-c270-47a3-8566-65193ad55ed6.jpg)
 
 [Haproxy_1](https://github.com/Chibrik0ff/8-03-hw/blob/main/haproxy.cfg)
 
@@ -24,7 +24,7 @@
 
 ### *Ответ*
 
-![Скриншот](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/2.jpg)
+![Скриншот](https://github.com/Chibrik0ff/8-03-hw/blob/main/img/1947ef0f-f9a6-4739-a296-2dc489ae256c.jpg)
 
 [Haproxy_2](https://github.com/Chibrik0ff/8-03-hw/blob/main/haproxy2.cfg)
 
